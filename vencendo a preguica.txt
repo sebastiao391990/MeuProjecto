@@ -3,3 +3,5 @@ lorein ipsum
 nova versão
 
 outra versão aprimorada
+
+Editando direito do próprio git
