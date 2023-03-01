@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+sebastiao paulo. estou a trabalhar na branch meu branch
+=======
+sebastiao paulo. estou a trabalhar na branch nova branch
+>>>>>>> nova_branch
+
+celestino paulo
